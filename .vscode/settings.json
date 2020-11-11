@@ -1,0 +1,13 @@
+{
+  "spellright.language": [
+    "English"
+  ],
+  "spellright.documentTypes": [
+    "latex",
+    "plaintext",
+    "markdown"
+  ],
+  "files.exclude": {
+    "**/package-lock.json": true,
+  },
+}
